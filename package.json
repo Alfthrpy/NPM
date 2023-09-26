@@ -1,9 +1,12 @@
 {
+	"version": "1.1",
+	"license" : "UIN BANDUNG",
 	"description": "project latihan saja",
 	"keywords": ["latihan","gatau","aneh"],
 	"author" : "fathir",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
+		"@freecodecamp/example" : "1.2.13",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
